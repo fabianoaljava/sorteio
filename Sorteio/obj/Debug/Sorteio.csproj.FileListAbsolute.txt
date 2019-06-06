@@ -1,0 +1,2 @@
+C:\Users\Fabiano\OneDrive\_Dev\Sorteio\Sorteio\Sorteio\bin\Debug\BDSorteio.mdf
+C:\Users\Fabiano\OneDrive\_Dev\Sorteio\Sorteio\Sorteio\bin\Debug\BDSorteio_log.ldf
